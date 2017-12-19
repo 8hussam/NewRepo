@@ -10,6 +10,7 @@ namespace hhhh1
     {
         static void Main(string[] args)
         {
+            //scscvcbzxcvsdcvbaxvasghjjhx
             Console.WriteLine("dfdsgfs;gmdfgm");
             Console.ReadKey();
 
